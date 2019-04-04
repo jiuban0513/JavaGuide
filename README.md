@@ -1,6 +1,8 @@
 <h1 align="center">Java 学习/面试指南</h1>
 <p align="center">
-<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-3/logo - 副本.png" width=""/>
+<a href="https://github.com/Snailclimb/JavaGuide" target="_blank">
+	<img src="https://my-blog-to-use.oss-cn-beijing.aliyuncs.com/2019-3/logo - 副本.png" width=""/>
+</a>
 </p>
 
 <p align="center">
@@ -56,10 +58,8 @@
 - [资料](#资料)
     - [书单](#书单)
     - [Github榜单](#Github榜单)
-- [闲谈](#闲谈)
 - [待办](#待办)
 - [说明](#说明)
-
 
 ## Java
 
@@ -229,22 +229,16 @@
 
 - [Java 项目月榜单](docs/github-trending/JavaGithubTrending.md)
 
-## 闲谈  
-
-* [如何提问](docs/chat/如何提问.md) 
-* [选择技术方向都要考虑哪些因素](docs/chat/选择技术方向都要考虑哪些因素.md) 
-* [结束了我短暂的秋招，说点自己的感受](docs/chat/2018%20%E7%A7%8B%E6%8B%9B.md) 
-
 ***
 
 ## 待办
 
 - [x] [Java 8 新特性总结](docs/java/What's%20New%20in%20JDK8/Java8Tutorial.md)
-- [ ] Java 8 新特性详解
-- [ ] Java 多线程类别知识重构
+- [x] [Java 8 新特性详解](docs/java/What's%20New%20in%20JDK8/Java8教程推荐.md)
+- [ ] Java 多线程类别知识重构(---正在进行中---)
 - [x] [BIO,NIO,AIO 总结 ](docs/java/BIO-NIO-AIO.md)
-- [ ] Netty 总结
-- [ ] 数据结构总结重构
+- [ ] Netty 总结(---正在进行中---)
+- [ ] 数据结构总结重构(---正在进行中---)
 
 ## 说明
 
